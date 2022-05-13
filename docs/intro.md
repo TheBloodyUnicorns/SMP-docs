@@ -1,5 +1,5 @@
 ---
-title: Erste Schritte
+title: Vorbereitung
 sidebar_position: 1
 ---
 
