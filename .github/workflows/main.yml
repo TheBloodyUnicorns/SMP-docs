@@ -28,5 +28,4 @@ jobs:
               command: ./update.sh
               host: ${{ secrets.HOST }}
               username: alex
-              passphrase: ${{ secrets.PASSPHRASE }}
               privateKey: ${{ secrets.PRIVATE_KEY}}
