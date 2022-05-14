@@ -27,5 +27,6 @@ jobs:
             with:
               command: ./update.sh
               host: ${{ secrets.HOST }}
+              port: ${{ secrets.PORT }}
               username: alex
               privateKey: ${{ secrets.PRIVATE_KEY}}
