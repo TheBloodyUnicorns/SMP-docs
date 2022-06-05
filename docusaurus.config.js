@@ -47,10 +47,10 @@ const config = {
     ({
       navbar: {
         title: 'TBU',
-        href: 'https://discordapp.com/invite/9zmdg3TeMm',
         logo: {
           alt: 'TBU Logo',
           src: 'img/logo.svg',
+          href: 'https://discordapp.com/invite/9zmdg3TeMm',
         },
         items: [
           {
