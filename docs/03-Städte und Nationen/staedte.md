@@ -1,5 +1,5 @@
 ---
-title: Städte und Nationen
+title: Die Basics
 ---
 Städte sind das Herzstück des TBU-SMP. In ihnen versammeln sich Spieler um ein gemeinsames Interesse zu verfolgen.
 ## Vorteile von Städten
