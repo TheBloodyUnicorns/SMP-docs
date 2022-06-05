@@ -9,7 +9,7 @@ const oembed = require('remark-oembed')
 const config = {
   title: 'TBU-SMP',
   tagline: 'Einzigartig. Anders. Unvergesslich.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://smp.mytbu.de',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
