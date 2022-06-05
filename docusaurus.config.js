@@ -30,6 +30,7 @@ const config = {
       ({
 
         docs: {
+          routeBasePath: '/docs',
           remarkPlugins: [oembed],
           sidebarPath: require.resolve('./sidebars.js'),
         },
