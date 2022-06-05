@@ -50,7 +50,8 @@ const config = {
         logo: {
           alt: 'TBU Logo',
           src: 'img/logo.svg',
-          to: '',
+          href: 'https://smp.mytbu.de',
+          target: '_self',
         },
         items: [
           {
