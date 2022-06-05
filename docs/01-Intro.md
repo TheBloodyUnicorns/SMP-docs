@@ -2,6 +2,7 @@
 title: Vorbereitung
 sidebar_position: 1
 slug: /
+id: intro
 ---
 
 ## Was muss ich herunterladen?
