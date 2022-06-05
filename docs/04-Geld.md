@@ -12,11 +12,11 @@ Das Wirtschaftssystem auf dem TBU-SMP basiert auf Gold. Die Werte sehen so aus:
 
 ## Das Bankkonto
 Das Bankkonto ist ein sicherer Ort für dein Gold. Von dort kann es dir nicht gestohlen werden und auch nicht verloren gehen wenn du stirbst.
-Dein Kontostand kannst du dir jederzeit über den Befehl '''/bank balance''' anzeigen lassen. Er setzt sich aus dem Gold, das du gerade bei dir trägst, und dem Gold, das du auf der Bank hast, zusammen.
+Dein Kontostand kannst du dir jederzeit über den Befehl `/bank balance` anzeigen lassen. Er setzt sich aus dem Gold, das du gerade bei dir trägst, und dem Gold, das du auf der Bank hast, zusammen.
 ### Gold ein- und auszahlen
-Möchtest du Gold auf dein Konto einzahlen, kannst du das mit dem Befehl '''/bank deposit ANZAHL''' tun. Abheben kannst du mit dem Befehl '''/bank withdraw ANZAHL'''. Um diese Befehle nutzen zu können, musst du dich auf einem Bank-Plot befinden.
+Möchtest du Gold auf dein Konto einzahlen, kannst du das mit dem Befehl `/bank deposit ANZAHL` tun. Abheben kannst du mit dem Befehl `/bank withdraw ANZAHL`. Um diese Befehle nutzen zu können, musst du dich auf einem Bank-Plot befinden.
 ### Gold überweisen
-Überweisungen kannst du mit dem Befehl '''/bank pay SPIELER ANZAHL''' tätigen. Auch dafür musst du dich auf einem Bank-Plot befinden.
+Überweisungen kannst du mit dem Befehl `/bank pay SPIELER ANZAHL` tätigen. Auch dafür musst du dich auf einem Bank-Plot befinden.
 
 ## Gold verdienen
 ### Mining
