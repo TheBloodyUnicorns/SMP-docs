@@ -1,7 +1,7 @@
 ---
 title: Vorbereitung
 sidebar_position: 1
-slug: /docs
+slug: /
 ---
 
 ## Was muss ich herunterladen?
