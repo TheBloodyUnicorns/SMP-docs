@@ -50,7 +50,7 @@ const config = {
         logo: {
           alt: 'TBU Logo',
           src: 'img/logo.svg',
-          href: 'https://discordapp.com/invite/9zmdg3TeMm',
+          href: 'https://smp.mytbu.de',
         },
         items: [
           {
