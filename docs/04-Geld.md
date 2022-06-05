@@ -21,7 +21,7 @@ Möchtest du Gold auf dein Konto einzahlen, kannst du das mit dem Befehl '''/ban
 ## Gold verdienen
 ### Mining
 Die einfachste Möglichkeit Geld zu verdienen ist es, in die Mine zu gehen. Am effektivsten ist es Caving zu betreiben. Also das erkunden von Höhlen. Falls das nicht mehr reicht, bietet sich Strip Mining auf Höhe -16 an.
-In [Badlands](https://minecraft.fandom.com/wiki/Badlands) ist spawnt Gold deutlich häufiger als normal. Die Badlands sind ein geopolitischer wichtiger Punkt.
+In [Badlands](https://minecraft.fandom.com/wiki/Badlands) spawnt Gold deutlich häufiger als normal. Die Badlands sind ein geopolitisch wichtiger Punkt.
 ### Überfälle
 Alles außerhalb von Städten ist nicht geschützt. Du darfst jedes Haus looten. Du kannst auch andere Spieler versuchen auszurauben.
 ### Shops
