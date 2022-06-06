@@ -1,17 +1,17 @@
 ## :information_source: Überblick
 * :fire: :crossed_swords: Kriege werden entschieden durch **Belagerungen**:
   * Eine Belagerung ist ein 3 tägiges "King of the Hill" Battle, welches außerhalb der Stadt stattfindet.
-* :wrestling: Jede Belagerung hat 2 sich gegenüberstehenden Teams:
+* :men_wrestling:  Jede Belagerung hat 2 sich gegenüberstehenden Teams:
   * **Angreifer**: Meistens eine angreifende Nation + seine Verbündeten.
   * **Verteidiger**: Meistens eine verteigende Stadt + seine Nation + seine Verbündete.
 * :moneybag: :triangular_flag_on_post: Abhänig davon, welches Team gewinnt können **Plünderung** und/oder **Invasion** möglich sein.
 ## :shield: Assign Military Ranks
 * :point_right: Bevor Spieler in den Krieg ziehen können, müssen die Könige oder Bürgermeister Militärränge vergeben.
-* :guard: Nation Ränge:
+* :man_guard:  Nation Ränge:
   * **Private, Sergeant, Lieutenant, Captain, Major, Colonel,** - Können Battle Points sammeln.
   * **General** - Kann alles, was die oben genannten Ränge können plus kann Militärränge vergeben, Kriege starten/abbrechen/aufgeben, und Plündern/Einnehmen nach einem Sieg.
   * **King** - Selbe Rechte wie ein General.
-* :guard: Stadt Ränge:
+* :man_guard:  Stadt Ränge:
   * **Guard** - Kann Battle Points sammeln
   * **Sheriff** - Wie Guard, plus kann Militärränge vergeben.
   * **Mayor** - Wie Sherrif, plus kann Revolten starten und Aufgeben.
@@ -49,9 +49,9 @@
     - If the Siege Balance is greater than zero, the attacker is declared the siege-winner, otherwise the defender is declared the siege-winner.
     - The besieged town receives **Siege Immunity**, for x3 times the duration of the siege. Siege Immunity protects the town from further attacks.
     - The besieged town also receives **Revolt Immunity** for 75% the duration of the Siege Immunity. Revolt Immunity stops the town from revolting.
-* :white_flag: Abandon attack:
+* :flag_white: Abandon attack:
   - As a siege attacker, you can place an all-white banner in the wilderness close to the town to abandon the attack.
-* :white_flag: Surrender defence:
+* :flag_white: Surrender defence:
   - As a siege defender, you can place an all-white banner in the wilderness close the the town to surrender the defence.
 
 ## :gift: Plündern & Einnehmen
