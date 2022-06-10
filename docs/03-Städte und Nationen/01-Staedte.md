@@ -15,7 +15,12 @@ Städte sind das Herzstück des TBU-SMP. In ihnen versammeln sich Spieler um ein
   - Ist eine Stadt bankrott kann sie keine neuen Bürger aufnehmen, außerdem kann man keine Plots mehr beanspruchen und man kann nichts mehr auf seinem Land bauen. Um den Status zu entfernen, muss man einfach wieder mit `/t deposit *Anzahl von Geld*` genug Geld in die Stadtkasse zahlen.
 ## Stadtlevel
 Deine Stadt kann verschiedene Level erreichen, diese beruhen auf der Anzahl deiner Anwohner.
-
+| Level | Anzahl der Einwohner | Name des Stadterstellers und der Stadt | Anzahl der Plots die man beanspruchen kann | Die Anzahl an Steuern die man jeden Tag zahlen muss |
+|-------|----------------------|----------------------------------------|--------------------------------------------|-----------------------------------------------------|
+| 1     | 1                    | Oberpfadfinder einer Siedlung          | 30                                         | 144 (16 Ingots)                                     |
+| 2     | 3                    | Landesherr eines Dorfes                | 60                                         | 576 (1 Stack Ingots)                                |
+| 3     | 6                    | Bürgermeister einer Stadt              | 180                                        | 1152 (2 Stacks Ingots)                              |
+| 4     | 8                    | Oberbürgermeister einer Metropole      | 300                                        | 1728 (3 Stacks Ingots)                              |
 
 
 ## Vorteile von Städten
