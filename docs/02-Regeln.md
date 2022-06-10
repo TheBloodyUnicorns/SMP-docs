@@ -15,3 +15,7 @@ sidebar_position: 2
 - Geld kann nur in Banken eingezahlt werden, da die Economy Gold basiert ist. Also verlierst du all das Geld (=Gold) in deinem Inventar, wenn du stirbst. Sei vorsichtig.
 - Piglins können keine Gold basierten Items droppen
 - Manche wertvolle Items, bleiben besonders lange auf dem Boden liegen (2 Stunden). Die Liste findet ihr irgendwo lol
+> f
+> fff
+> fffff
+> fff
