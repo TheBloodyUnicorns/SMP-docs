@@ -1,7 +1,7 @@
 ---
 title: Städte
 ---
-####Städte sind das Herzstück des TBU-SMP. In ihnen versammeln sich Spieler um ein gemeinsames Interesse zu verfolgen.
+#### Städte sind das Herzstück des TBU-SMP. In ihnen versammeln sich Spieler um ein gemeinsames Interesse zu verfolgen.
 ## Wie funktioniert eine Stadt
 - Wie man eine Stadt erstellt, erfährst du unter dem Command `/tgui town`
 - Nachdem man eine Stadt erstellt hat, muss man täglich für sie bezahlen (dies ist abhängig vom Stadtlevel, siehe unten). Man bezahlt jeden Tag um 12 Uhr. **Das Geld wird automatisch von der Stadtkasse abgezogen**
