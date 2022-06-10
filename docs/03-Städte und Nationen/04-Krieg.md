@@ -32,27 +32,26 @@
   - Eine Belagerungsrunde muss aktiv sein, damit Spieler **Kampfpunkte** sammeln können.
   - Belagerungsrunden starten, jeden Tag um 19:10 und dauern 50 Minuten.
 * :100: Banner einnehmen:
-    - Gehe als ein **Offizieler Belagerungsteilnehmer** (*a military-ranked member of one of the teams*), in die **Bannerkontrollzone** (ein 16 Block Radius um den Belagerungs-Banner). Eine **Banner Capture Session** will start.
-    - Remain alive for 7 minutes, then you will Capture the Banner for your team, and will be added to the **Banner Control List**.
-    - Your team will automatically get 30 Battle Points each minute for each player on the Banner Control List.
-    - If a team steals battle control from the enemy team, this is called a **Banner Control Reversal**, and the reversing team has their base timed-point-generation rate multiplied 3.
-    - Each player is limited in how many Battle Sessions they can cap-at each day: 3 on Weekdays, 6 on Weekend-days.
-* :100: Kill Enemy Players:
-    - As a soldier in the Siege-Zone, kill an enemy Official Siege Participant of military rank, for a reward of 150 Battle Points.
-* :gorilla: Win Battle:
-   - When the Battle Session ends:
-     - The team with the best Battle Points score is declared the battle-winner.
-     - Both teams get their battle points applied to the **Siege Balance**.
-   - The Siege Balance is capped on either end, at -20,000 and +20,000.
-* :fireworks: Win Siege:
-  - When the siege ends:
-    - If the Siege Balance is greater than zero, the attacker is declared the siege-winner, otherwise the defender is declared the siege-winner.
-    - The besieged town receives **Siege Immunity**, for x3 times the duration of the siege. Siege Immunity protects the town from further attacks.
-    - The besieged town also receives **Revolt Immunity** for 75% the duration of the Siege Immunity. Revolt Immunity stops the town from revolting.
-* 🏳️ Abandon attack:
-  - As a siege attacker, you can place an all-white banner in the wilderness close to the town to abandon the attack.
-* 🏳️ Surrender defence:
-  - As a siege defender, you can place an all-white banner in the wilderness close the the town to surrender the defence.
+    - Gehe als ein **Offizieler Belagerungsteilnehmer** (*a military-ranked member of one of the teams*), in die **Bannerkontrollzone** (ein 16 Block Radius um den Belagerungs-Banner). Eine **Belagerungsbanner Kontrollrunde** wird starten.
+    - Bleibe für 7 Minuten am Leben, dann wirst du den Banner für dein Team eingenommen haben, und du wirst zu der Banner-Kontrollliste hinzugefügt.
+    - Dein Team bekommt automatisch 30 Kampfpunkte für jede Minute und Spieler auf der Banner-Kontrollliste.
+    - Wenn ein Team die Bannerkontrolle von dem Gegnerteam übernimmt, nennt man das **Bannerkontroll-Umkehrung**, und das umkehrende Team bekommt einen 3 Fach so viele Punkte.
+* :100: Töte gegnerische Spieler:
+    - Als ein Soldat in der Belagerungszone, wirst du für jeden Kill eines Gegners mit 150 Kampfpunkten belohnt.
+* :gorilla: Kampf gewinnen:
+   - Wenn die Kampfrunde endet:
+     - Das Team mit dem höchsten Kampfpunkten wird zum Kampfrunden-Gewinner erklärt.
+     - Beide Teams bekommen ihre Kampfpunkte auf ihre **Belagerungs-Bilanz** gutgeschrieben.
+   - Die Belagerungs Bilanz ist zwischen **-20000** und **20000** begrenzt.
+* :fireworks: Belagerung gewinnen:
+  - Wenn die Belagerung endet:
+    - Wenn die Belagerungs-Bilanz größer als 0 ist, wird der Angreifer als Sieger erklärt, andernfalls wird der Verteidiger als Sieger erklärt.
+    - Die besiegte Stadt erhält eine **Belagerungsimmunität** für die 3 Fache Zeit der Belagerung. Die Belagerungsimmunität schützt die Stadt vor weiteren Attacken.
+    - Die besiegt Stadt erhält außerdem eine **Rebellionsimmunität** für 75% der Zeit der Belagerungsimmunität. Rebellionsimmunität unterbindet die Stadt zu rebellieren.
+* 🏳️ Angriff abbrechen:
+  - Als ein Angreifer, kannst du ein weißes Banner, in der Wildnis, nahe der Stadt platzieren, um die Belagerung abzubrechen.
+* 🏳️ Verteidigung aufgeben:
+  - Als ein Verteidiger, kannst du ein weißes Banner, in der Wildnis, nahe der Stadt platzieren, um die Verteidigungn aufzugeben.
 
 ## :gift: Plündern & Einnehmen
 * :moneybag: Stadt plündern:
@@ -79,23 +78,24 @@
        - If the occupier wins, they can plunder and/or invade, and the revolt timer is reset.
        - If the occupier loses, the occupation is removed.
 
-## :keyboard: Player Commands
+## :keyboard: Spielerbefehle
 * :information_source: View Information:
-  - Guidebook - `/sw guide` - Opens a book which explains how SiegeWar works, with precise values reflecting the server's SiegeWar configuration file.
-  - Siege - `/sw hud [town name]` - Toggle a HUD on/off, to monitor the progress of a particular siege.
-  - Town - `/t` or `/t here` or `/t [town name]` - View detailed information about the siege on the town (if any).
-  - Nation - `/n [nation name]` - View the list of sieges the nation is involved in (if any).
-* :information_source: Configure Personal Preferences:
-  - `/sw preference bossbar on|off` - Toggle the bossbars on and off.
-  - `/sw preference beacon on|off` - Toggle the beacon beam on and off.
-* :shield:  Assign Military Ranks:
-  - Town - `/t rank add [player name] [rank]` - As a mayor, assign `guard` & `sheriff` ranks. As a sheriff, assign `guard` ranks. Guards, sheriffs, and mayors can gain Battle Points if the town is sieged. Mayors can also execute siege surrenders.
-  - Nation - `/n rank add [player name] [rank]` - As a king, assign any nation military rank e.g. `private`, `sergeant`, `lieutenant`, `captain`, `major`, `colonel`, or `general`. As a general, assign any of these except `general`. The king, or any soldier, can gain Battle Points in nation/ally sieges. Kings and generals can also execute siege attacks/abandons/invasions/plunders.
-* :money_with_wings: Pay Soldiers:
-  - `/sw nation paysoldiers <amount>` - As a king, make a military salary payment to your soldiers. Each soldier receives a share of the money, based on their military rank.
-* :dollar: Collect Military Income:
-  - `/sw collect` - As a soldier, collect any income due to you from Military Salary.
-* :peace_symbol: Manage Occupation Peacefully:
-  - `/sw nation removeoccupation <town>` - As a king, peacefully remove your nation's occupation of a town.
-  - `/sw nation transferoccupation <town> <nation>` - As a king, invite another nation to peacefully occupy a town which you currently occupy.
-  - `/sw town inviteoccupation <nation>` - As a mayor, invite a nation to peacefully occupy your town.
+  - Guidebook - `/sw guide` - Öffnet ein Buch, welches Siege-War erklärt.
+  - Belagerung - `/sw hud [town name]` - Schaltet das HUD ein/aus, um den Fortschritt der Belagerung anzuzeigen.
+  - Stadt - `/t` or `/t here` or `/t [town name]` - Zeigt detallierte Information über die Belagerung der Stadt an (falls vorhanden).
+  - Nation - `/n [nation name]` - Zeigt eine Liste aller Belagerungen an, in welche die Nation involviert ist (falls vorhanden).
+* :information_source: Konfigure persönliche Präferenzen:
+  - `/sw preference bossbar on|off` - Schaltet die Bossbar ein bzw. aus.
+  - `/sw preference beacon on|off` - Schaltet den Beacon-Strahl ein bzw. aus.
+* :shield:  Erteile Militärränge:
+  - Stadt - `/t rank add [player name] [rank]` - Als ein Bürgermeister, kannst du folgende Ränge erteilen: `guard` & `sheriff`. Als ein Sherrif, erteile den `guard` Rang. Guards, Sherrifs, und Bürgermeister können Kampfpunkte sammeln, wenn eine Belagerung läuft.
+  Bürgermeister können die Belagerung kapiturlieren.
+  - Nation - `/n rank add [player name] [rank]` - Als ein König kannst du folgende Militärränge erteilen: `private`, `sergeant`, `lieutenant`, `captain`, `major`, `colonel`, oder `general`. Als ein General, kannst du alle vorherige gennante Ränge erteilen, außer `general`. Der König, oder jeder Soldat, können Kampfpunkte in Nation oder Allierten Belagerungen sammeln. Könige und Generäle können Belagerungs-Angriffe/Abbrüche/Invasionen/Plünderungen durchführen..
+* :money_with_wings: Soldaten bezahlen.:
+  - `/sw nation paysoldiers <amount>` - Als ein König, kannst du einen Sold an deine Soldaten zahlen. Jeder Soldat erhält einen Anteil von dem Geld, basierend auf deren militärschen Rang.
+* :dollar: Militärschen Sold erhalten:
+  - `/sw collect` - Als ein Soldat, beziehe deinen Sold ein.
+* :peace_symbol: Besetzungen friedlich verwalten:
+  - `/sw nation removeoccupation <town>` - Als ein König, entferne die Besetzung einer Stadt.
+  - `/sw nation transferoccupation <town> <nation>` - Als ein König, lade eine andere Nation ein, die Besetzung einer Stadt zu übernehmen.
+  - `/sw town inviteoccupation <nation>` - Als ein Bürgermeister, lade eine Nation ein, deine Stadt zu besetzen.
