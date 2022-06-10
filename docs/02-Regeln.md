@@ -2,6 +2,7 @@
 title: Regeln und Sachen die man wissen sollte
 sidebar_position: 2
 ---
+## Regeln
 - Combatlogging, also das Leaven während eines Kampfes, ist nicht erlaubt, und wird mit einem Instakill bestraft, sobald man versucht zu leaven. Es ist klar erkenntlich, wann man in einem Kampf ist, und wann nicht, also mach dir darüber keine Sorgen.
 - Es gibt ein Deathtimer von 20 Minuten, dass heißt wenn du stirbst, darfst du für 20 Minuten nicht mehr auf den Server. Wenn du in einer Kriegszone stirbst, passiert dies natürlich nicht.
 - Vollautomatische Farmen sind nciht erlaubt - Halbautomatische aber schon.
@@ -15,7 +16,3 @@ sidebar_position: 2
 - Geld kann nur in Banken eingezahlt werden, da die Economy Gold basiert ist. Also verlierst du all das Geld (=Gold) in deinem Inventar, wenn du stirbst. Sei vorsichtig.
 - Piglins können keine Gold basierten Items droppen
 - Manche wertvolle Items, bleiben besonders lange auf dem Boden liegen (2 Stunden). Die Liste findet ihr irgendwo lol
-> f
-> fff
-> fffff
-> fff
