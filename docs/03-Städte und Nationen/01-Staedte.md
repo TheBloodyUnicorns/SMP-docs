@@ -1,7 +1,7 @@
 ---
-title: Die Basics
+title: Städte
 ---
-Städte sind das Herzstück des TBU-SMP. In ihnen versammeln sich Spieler um ein gemeinsames Interesse zu verfolgen.
+####Städte sind das Herzstück des TBU-SMP. In ihnen versammeln sich Spieler um ein gemeinsames Interesse zu verfolgen.
 ## Wie funktioniert eine Stadt
 - Wie man eine Stadt erstellt, erfährst du unter dem Command `/tgui town`
 - Nachdem man eine Stadt erstellt hat, muss man täglich für sie bezahlen (dies ist abhängig vom Stadtlevel, siehe unten). Man bezahlt jeden Tag um 12 Uhr.
@@ -28,3 +28,4 @@ Deine Stadt kann verschiedene Level erreichen, diese beruhen auf der Anzahl dein
 - Grief-Schutz. Ein Plot, welchen du dir bei einer Stadt mietest ist geschützt, heißt nur du und die, welchen du die Berechtigungen dafür gegeben hast, können auf deinem Plot zugreifen.
 - Viele Städte haben öffentliche Plots wie zum Beispiel Kürbisfarmen, auf denen sich jeder Einwohner sich bedienen darf.
 - Städte können Bank Plots festlegen, auf welchen du auf dein Konto zugreifen kannst.
+- Ein weiterer Vorteil ist, dass man mit seiner Stadt Ressourcen abbauen kann, dies wird unter [Ressourcenabbau](02-Ressourcenabbau.md) erklärt.
