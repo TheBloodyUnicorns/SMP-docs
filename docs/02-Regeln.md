@@ -15,4 +15,11 @@ sidebar_position: 2
 - Nether Travel ist nicht möglich - du kommst aus dem Portal raus, in das du reingegangen bist
 - Geld kann nur in Banken eingezahlt werden, da die Economy Gold basiert ist. Also verlierst du all das Geld (=Gold) in deinem Inventar, wenn du stirbst. Sei vorsichtig.
 - Piglins können keine Gold basierten Items droppen
-- Manche wertvolle Items, bleiben besonders lange auf dem Boden liegen (2 Stunden). Die Liste findet ihr irgendwo lol
+- Manche wertvolle Items, bleiben besonders lange auf dem Boden liegen (2 Stunden). Zu den wertvollen Items gehören:
+..* Alle Netherite und Diamond Sachen
+..* Gold Erz, Nuggets, Blöcke, aber **KEIN** Equipment
+..* Obsidian, Goldäpfel
+..* Shulkerboxen und Shells
+..* Verzauberte Bücher
+..* Totem of Undying, Tridents
+..* Bögen und Crossbows
