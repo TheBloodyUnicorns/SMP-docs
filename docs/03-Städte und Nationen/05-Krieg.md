@@ -70,18 +70,18 @@
        - Wenn die Stadt verliert, darf der Besetzer plündern.
 
 ## :keyboard: Spielerbefehle
-* :information_source: View Information:
+* :information_source: Einsehen von Informationen:
   - Guidebook - `/sw guide` - Öffnet ein Buch, welches Siege-War erklärt.
   - Belagerung - `/sw hud [town name]` - Schaltet das HUD ein/aus, um den Fortschritt der Belagerung anzuzeigen.
-  - Stadt - `/t` or `/t here` or `/t [town name]` - Zeigt detallierte Information über die Belagerung der Stadt an (falls vorhanden).
+  - Stadt - `/t` or `/t here` or `/t [town name]` - Zeigt detaillierte Informationen über die Belagerung der Stadt an (falls vorhanden).
   - Nation - `/n [nation name]` - Zeigt eine Liste aller Belagerungen an, in welche die Nation involviert ist (falls vorhanden).
-* :information_source: Konfigure persönliche Präferenzen:
+* :information_source: Konfigurieren persönlicher Präferenzen:
   - `/sw preference bossbar on|off` - Schaltet die Bossbar ein bzw. aus.
   - `/sw preference beacon on|off` - Schaltet den Beacon-Strahl ein bzw. aus.
 * :shield:  Erteile Militärränge:
   - Stadt - `/t rank add [player name] [rank]` - Als ein Bürgermeister, kannst du folgende Ränge erteilen: `guard` & `sheriff`. Als ein Sherrif, erteile den `guard` Rang. Guards, Sherrifs, und Bürgermeister können Kampfpunkte sammeln, wenn eine Belagerung läuft.
   Bürgermeister können die Belagerung kapitulieren.
-  - Nation - `/n rank add [player name] [rank]` - Als ein König kannst du folgende Militärränge erteilen: `private`, `sergeant`, `lieutenant`, `captain`, `major`, `colonel`, oder `general`. Als ein General, kannst du alle vorherige gennante Ränge erteilen, außer `general`. Der König, oder jeder Soldat, können Kampfpunkte in Nation oder Allierten Belagerungen sammeln. Könige und Generäle können Belagerungs-Angriffe/Abbrüche/Invasionen/Plünderungen durchführen..
+  - Nation - `/n rank add [player name] [rank]` - Als ein König kannst du folgende Militärränge erteilen: `private`, `sergeant`, `lieutenant`, `captain`, `major`, `colonel`, oder `general`. Als ein General, kannst du alle vorherige gennante Ränge erteilen, außer `general`. Der König, oder jeder Soldat, können Kampfpunkte in Nation oder Allierten Belagerungen sammeln. Könige und Generäle können Belagerungs-Angriffe/Abbrüche/Invasionen/Plünderungen durchführen.
 * :money_with_wings: Soldaten bezahlen:
   - `/sw nation paysoldiers <amount>` - Als ein König, kannst du einen Sold an deine Soldaten zahlen. Jeder Soldat erhält einen Anteil von dem Geld, basierend auf deren militärschen Rang.
 * :dollar: Militärschen Sold erhalten:
