@@ -3,7 +3,7 @@ title: Städte
 ---
 #### Städte sind das Herzstück des TBU-SMP. In ihnen versammeln sich Spieler um ein gemeinsames Interesse zu verfolgen.
 ## Wie funktioniert eine Stadt
-- Wie man eine Stadt erstellt, erfährst du unter dem Command `/tgui town`
+- Wie man eine Stadt erstellt, erfährst du unter dem Command `/tgui town`. Eine Stadt kostet **3500 Gold bzw. ungefähr 6 Stacks Ingots**.
 - Nachdem man eine Stadt erstellt hat, muss man täglich für sie bezahlen (dies ist abhängig vom Stadtlevel, siehe unten). Man bezahlt jeden Tag um 12 Uhr. **Das Geld wird automatisch von der Stadtkasse abgezogen**
 - Man kann nun Geld in seine Stadtkasse einzahlen mit dem Command `/t deposit *Anzahl an Gold*`
 - Wenn man eine Stadt erstellt, erhält man den Chunk auf dem man steht. Wenn man nun genug Geld in der Stadtkasse hat, kann man sich neue Plots (=Chunks) angrenzend an andere Plots für sich beanspruchen. Dies macht man, in dem man in dem Plot steht den man beanspruchen will und `/t claim` eingibt. Dies kostet **72 Gold bzw. 8 Ingots**.
