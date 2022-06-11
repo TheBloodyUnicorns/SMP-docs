@@ -2,7 +2,7 @@
 title: Ressourcenabbau
 ---
 # Das Abbauen von Ressourcen
- Sobald deine Stadt eine Größe von 20 Plots erreicht, kannst du sogenannte Bodenvermessung durchführen. Dies kannst du mit dem Command `/tr survey` machen. Von dieser Bodenvermessung gibt es insgesamt 4 Level, die Kosten und die Produktivität werden in folgenden Tabelle erläutert.
+ Sobald eine Stadt eine Größe von 20 Plots erreicht, kannst man sogenannte Bodenvermessung durchführen. Dies kann man mit dem Befehl `/tr survey` machen. Von dieser Bodenvermessung gibt es insgesamt 4 Level, die Kosten und die Produktivität werden in folgenden Tabelle erläutert.
 
  | Level der Bodenvermessung | Kosten der Bodenvermessung | Produktivität |
 |---------------------------|----------------------------|---------------|
@@ -12,7 +12,7 @@ title: Ressourcenabbau
 | 4                         | 4608 (5 Stacks Gold)       | 400%          |
 
 #### Weitere Informationen bezüglich Ressourcenabbau
-Man muss erst Level 1 kaufen um Level 2 kaufen zu können usw. *Aber was bringt mir das jetzt?* Bei der Bodenvermessung kann man verschiedenste Ressourcen finden, diese kann man nun jeden Tag einsammeln. Dabei hat man eine **höhere Wahrscheinlichkeit auf unstrategische Ressourcen**, also sowas wie Redstone, Schleimbälle oder Knochen. Zu strategischen Ressourcen gehören alle Erze. **Die Wahrscheinlichkeit eine unstrategische Ressource zu bekommen liegt bei 70% und die eine strategische zu bekommen liegt bei 30%.** Nun folgt eine Tabelle mit allen Ressourcen die man finden kann, ob sie strategisch sind oder nicht und wie viel die Standart Produktion ausmacht. *(Wenn man eine Standart Produktion von 1 Stack Wolle auf Level 1 hätte, würde man auf Level 2, 2 Stacks Wolle produzieren = Quick Maths)*
+Man muss erst Level 1 kaufen, um Level 2 kaufen zu können usw. *Aber was bringt mir das jetzt?* Bei der Bodenvermessung kann man verschiedenste Ressourcen finden, diese kann man nun jeden Tag einsammeln. Dabei hat man eine **höhere Wahrscheinlichkeit auf unstrategische Ressourcen**, also Resourcen wie Redstone, Schleimbälle oder Knochen. Zu strategischen Ressourcen gehören alle Erze. **Die Wahrscheinlichkeit eine unstrategische Ressource zu bekommen liegt bei 70% und die eine strategische zu bekommen liegt bei 30%.** Nun folgt eine Tabelle mit allen Ressourcen die man finden kann, ob sie strategisch sind oder nicht und wie viel die Standart Produktion ausmacht. *(Wenn man eine Standart Produktion von 1 Stack Wolle auf Level 1 hätte, würde man auf Level 2, 2 Stacks Wolle produzieren = Quick Maths)*
 
 | Ressource      | Anzahl bei Standart Prodution               | Strategisch? |
 |----------------|---------------------------------------------|--------------|
@@ -33,4 +33,4 @@ Man muss erst Level 1 kaufen um Level 2 kaufen zu können usw. *Aber was bringt 
 | Ender Perlen   | 8 Stück                                     | Nein         |
 
 #### Wie hole ich mir die Ressourcen ab?
-Man kann sich die Ressourcen nun jeden Tag mit dem Command `/tr towncollect` einholen. Man muss sie aber nicht abholen, dein Stadtlager kann das fünfache Menge gelagert halten. **Vorsicht! Wenn es die Maximale Menge gelagert hat, und dann produziert, verschwinden die Produzierten Ressourcen, weil sie nirgendwo gelagert werden können.**
+Man kann sich die Ressourcen nun jeden Tag mit dem Befehl `/tr towncollect` einholen. Man muss sie aber nicht abholen, dein Stadtlager kann das fünfache Menge gelagert halten. **Vorsicht! Wenn es die Maximale Menge gelagert hat, und dann produziert, verschwinden die produzierten Ressourcen, weil sie nicht gelagert werden können.**
