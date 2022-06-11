@@ -30,7 +30,7 @@ Du kannst alle Preise mit dem Befehl `/towny prices` einsehen
 ## Stadtlevel
 Deine Stadt kann verschiedene Level erreichen, diese beruhen auf der Anzahl deiner Anwohner.
 
-| Level | Anzahl der Einwohner | Name des Stadterstellers und der Stadt | Anzahl der Plots die man beanspruchen kann | Die Anzahl an Steuern die man jeden Tag zahlen muss |
+| Level | Anzahl der Einwohner | Name des Stadterstellers und der Stadt | Anzahl der Plots die man beanspruchen kann | Die Anzahl an Stadterhaltungskosten die man jeden Tag zahlen muss |
 |-------|----------------------|----------------------------------------|--------------------------------------------|-----------------------------------------------------|
 | 1     | 1                    | Oberpfadfinder einer Siedlung          | 30                                         | 144 (16 Ingots)                                     |
 | 2     | 3                    | Landesherr eines Dorfes                | 60                                         | 576 (1 Stack Ingots)                                |
