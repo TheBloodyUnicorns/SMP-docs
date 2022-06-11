@@ -9,7 +9,7 @@ Eine Nation ist kann ein Zussamenschluss mehrerer Städte sein, sie kann aber au
 - Nationen können [Kriege](05-Krieg.md) erklären.
 
 ## Eine Nation gründen
-Eine Nation gründet man mit dem Befehl `/n new NATIONSNAME`.
+Eine Nation gründet man mit dem Befehl `/n new NATIONSNAME`. Nur ein Bürgermeister kann eine Nation gründen. Der Bürgermeister wird automatisch zum König der Nation.
 :::tip
 
 Alle Befehle kannst du ganz einfach über ein Menü im Spiel einsehen!
