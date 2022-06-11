@@ -25,4 +25,4 @@ In [Badlands](https://minecraft.fandom.com/wiki/Badlands) spawnt Gold deutlich h
 ### Überfälle
 Alles außerhalb von Städten ist nicht geschützt. Du darfst jedes Haus looten. Du kannst auch andere Spieler versuchen auszurauben.
 ### Shops
-Du kannst dir Shop Plots bei einer Stadt mieten und dort einen Laden aufbauen. Mehr Informationen dazu gibt es auf der nächsten Wiki-Seite.
+Du kannst dir Shop Plots bei einer Stadt mieten und dort einen Laden aufbauen. Mehr Informationen gibt es [hier](/03-Städte und Nationen/03-Shops.md).
