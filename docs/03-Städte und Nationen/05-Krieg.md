@@ -68,15 +68,6 @@
        - Platziere einen nicht weissen Banner in der Wildnis außerhalb der Stadt.
        - Wenn die Stadt gewinnt, verschwindet die Besetzung.
        - Wenn die Stadt verliert, darf der Besetzer plündern.
-   - :united_nations: Get a friendly nation to free the town using a **Liberation Siege**.
-       - The king/general from the friendly nation starts this siege by placing a non-white banner outside the town.
-       - If the Liberator wins, the occupation will be removed.
-       - The Liberator can (optionally) plunder and/or invade.
-       - If the Liberator loses, the occupier can plunder and/or invade.
-   - :boot: Fight off a **Suppression siege** by the occupier.
-       - The king/general from the occupying nation starts this siege by placing a non-white banner outside the town.
-       - If the occupier wins, they can plunder and/or invade, and the revolt timer is reset.
-       - If the occupier loses, the occupation is removed.
 
 ## :keyboard: Spielerbefehle
 * :information_source: View Information:
