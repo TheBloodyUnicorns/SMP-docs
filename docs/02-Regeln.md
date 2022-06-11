@@ -22,3 +22,26 @@ sidebar_position: 2
   - Verzauberte Bücher
   - Totem of Undying, Tridents
   - Bögen und Crossbows
+- Man kann nicht unendlich Resourcen pro Tag abbauen. Diese Limiterung sollen Snowballing verhinden und den Handel zwischen Spielern fördern. Es folgt eine Tabelle der Limitierungen.
+
+| Kategorie | Items pro Tag | Inhalt |
+|---|---|---|
+| Quartz | 16 | Quartz Block |
+| Obsidian | 8 | Obsidian |
+| Clay | 64 | CLAY_BALL, CLAY |
+| Coal | 128 | COAL, COAL_BLOCK |
+| Iron | 96 | IRON_ORE, RAW_IRON |
+| Copper | 16 | COPPER_ORE, RAW_COPPER |
+| Emeralds | 16 | EMERALD_ORE, EMERALD |
+| Redstone | 64 | REDSTONE, REDSTONE_BLOCK |
+| Nether Quartz | 64 | NETHER_QUARTZ_ORE, QUARTZ |
+| Glowstone | 32 | GLOWSTONE_DUST, GLOWSTONE |
+| Ancient Debris | 8 | ANCIENT_DEBRIS |
+| Wood | 224 | OAK_LOG, SPRUCE_LOG, BIRCH_LOG, JUNGLE_LOG, ACACIA_LOG, DARK_OAK_LOG,CRIMSON_STEM, WARPED_STEM, OAK_WOOD, SPRUCE_WOOD, BIRCH_WOOD, JUNGLE_WOOD,ACACIA_WOOD, DARK_OAK_WOOD, CRIMSON_HYPHAE, WARPED_HYPHAE |
+| Kelp | 64 | KELP |
+| Bamboo | 64 | BAMBOO |
+| Cactus | 64 | CACTUS |
+| Gunpower | 16 | GUNPOWER |
+| Slime | 16 | SLIME_BALL, SLIME_BLOCK |
+| Ender Pearls | 8 | ENDER_PEARL |
+
