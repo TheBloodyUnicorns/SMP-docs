@@ -70,12 +70,12 @@
        - Wenn die Stadt verliert, darf der Besetzer plündern.
 
 ## :keyboard: Spielerbefehle
-* :information_source: View Information:
+* :information_source: Informationen einsehen:
   - Guidebook - `/sw guide` - Öffnet ein Buch, welches Siege-War erklärt.
   - Belagerung - `/sw hud [town name]` - Schaltet das HUD ein/aus, um den Fortschritt der Belagerung anzuzeigen.
   - Stadt - `/t` or `/t here` or `/t [town name]` - Zeigt detallierte Information über die Belagerung der Stadt an (falls vorhanden).
-  - Nation - `/n [nation name]` - Zeigt eine Liste aller Belagerungen an, in welche die Nation involviert ist (falls vorhanden).
-* :information_source: Konfigure persönliche Präferenzen:
+  - Nation - `/n [nation name]` - Zeigt eine Liste aller Belagerungen an, in welche die Nation involviert ist (falls vorhanden.
+* :information_source: Konfiguriere persönliche Präferenzen:
   - `/sw preference bossbar on|off` - Schaltet die Bossbar ein bzw. aus.
   - `/sw preference beacon on|off` - Schaltet den Beacon-Strahl ein bzw. aus.
 * :shield:  Erteile Militärränge:
