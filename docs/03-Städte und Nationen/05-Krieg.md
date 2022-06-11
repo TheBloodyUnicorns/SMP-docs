@@ -5,7 +5,7 @@
   * **Angreifer**: Meistens eine angreifende Nation + seine Verbündeten.
   * **Verteidiger**: Meistens eine verteigende Stadt + seine Nation + seine Verbündete.
 * :moneybag: :triangular_flag_on_post: Abhänig davon, welches Team gewinnt können **Plünderung** und/oder **Invasion** möglich sein.
-## :shield: Assign Military Ranks
+## :shield: Militärränge erteilen
 * :point_right: Bevor Spieler in den Krieg ziehen können, müssen die Könige oder Bürgermeister Militärränge vergeben.
 * 💂‍♂️  Nation Ränge:
   * **Private, Sergeant, Lieutenant, Captain, Major, Colonel,** - Können Battle Points sammeln.
@@ -25,14 +25,14 @@
   - :moneybag: Die Nation muss 36 Gold pro Plot in eine **Kriegskiste** einzahlen:
     - Dieses Geld wird automatisch der Siegernation zugeschrieben.
   - :person_fencing: PVP ist zwangsaktiviert in einem 300 Blöcke Radium um den **Belagerungs-Banner** (Die **Belagerungszone**).
-  - :camping: Um eine Belagerung zu starten, muss ein **Belagerungscamp:** gewonnen werden. Erziele 50 Punkte in 10 Minuten um eine Belagerung zu starten.
+  - :camping: Um eine Belagerung zu starten, muss ein **Belagerungscamp** gewonnen werden. Erziele 50 Punkte in 10 Minuten um eine Belagerung zu starten.
 
 ## :crossed_swords: Teilnahme an Belagerung
 * :timer_clock: Warte bis eine **Belagerungsrunde** beginnt:
   - Eine Belagerungsrunde muss aktiv sein, damit Spieler **Kampfpunkte** sammeln können.
   - Belagerungsrunden starten, jeden Tag um 19:10 und dauern 50 Minuten.
 * :100: Banner einnehmen:
-    - Gehe als ein **Offizieler Belagerungsteilnehmer** (*a military-ranked member of one of the teams*), in die **Bannerkontrollzone** (ein 16 Block Radius um den Belagerungs-Banner). Eine **Belagerungsbanner Kontrollrunde** wird starten.
+    - Gehe als ein **Offizieler Belagerungsteilnehmer** (*ein Spieler mit Militärränge von einen der Teams*), in die **Bannerkontrollzone** (ein 16 Block Radius um den Belagerungs-Banner). Eine **Belagerungsbanner Kontrollrunde** wird starten.
     - Bleibe für 7 Minuten am Leben, dann wirst du den Banner für dein Team eingenommen haben, und du wirst zu der Banner-Kontrollliste hinzugefügt.
     - Dein Team bekommt automatisch 30 Kampfpunkte für jede Minute und Spieler auf der Banner-Kontrollliste.
     - Wenn ein Team die Bannerkontrolle von dem Gegnerteam übernimmt, nennt man das **Bannerkontroll-Umkehrung**, und das umkehrende Team bekommt einen 3 Fach so viele Punkte.
@@ -80,9 +80,9 @@
   - `/sw preference beacon on|off` - Schaltet den Beacon-Strahl ein bzw. aus.
 * :shield:  Erteile Militärränge:
   - Stadt - `/t rank add [player name] [rank]` - Als ein Bürgermeister, kannst du folgende Ränge erteilen: `guard` & `sheriff`. Als ein Sherrif, erteile den `guard` Rang. Guards, Sherrifs, und Bürgermeister können Kampfpunkte sammeln, wenn eine Belagerung läuft.
-  Bürgermeister können die Belagerung kapiturlieren.
+  Bürgermeister können die Belagerung kapitulieren.
   - Nation - `/n rank add [player name] [rank]` - Als ein König kannst du folgende Militärränge erteilen: `private`, `sergeant`, `lieutenant`, `captain`, `major`, `colonel`, oder `general`. Als ein General, kannst du alle vorherige gennante Ränge erteilen, außer `general`. Der König, oder jeder Soldat, können Kampfpunkte in Nation oder Allierten Belagerungen sammeln. Könige und Generäle können Belagerungs-Angriffe/Abbrüche/Invasionen/Plünderungen durchführen..
-* :money_with_wings: Soldaten bezahlen.:
+* :money_with_wings: Soldaten bezahlen:
   - `/sw nation paysoldiers <amount>` - Als ein König, kannst du einen Sold an deine Soldaten zahlen. Jeder Soldat erhält einen Anteil von dem Geld, basierend auf deren militärschen Rang.
 * :dollar: Militärschen Sold erhalten:
   - `/sw collect` - Als ein Soldat, beziehe deinen Sold ein.
