@@ -20,8 +20,8 @@ Für das TBU-SMP verwenden wir ein ingame Voice-Chat. Mir folgenden Keybinds kö
 **V** - Voice-Chat Einstellungen öffnen. Dort könnt ihr euer Audiogerät wechseln und zwischen Spracherkennung und Push-To-Talk wechseln. Für eine bessere Spielerfahrung empfehlen wir Spracherkennung zu benutzen.  
 **Caps-Lock** - Der Standart Push-To-Talk Button.  
 
-===tip
+:::tip
 
 Alle Keybinds lassen sich unter den Steuerungseinstellungen verändern!
 
-===
+:::
