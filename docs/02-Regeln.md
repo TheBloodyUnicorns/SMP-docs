@@ -22,12 +22,12 @@ sidebar_position: 2
   - Verzauberte Bücher
   - Totem of Undying, Tridents
   - Bögen und Crossbows
-- Man kann nicht unendlich Resourcen pro Tag abbauen. Diese Limiterung sollen Snowballing verhinden und den Handel zwischen Spielern fördern. Es folgt eine Tabelle der Limitierungen.
+- Man kann nicht unendlich Resourcen pro Tag abbauen. Diese Limiterung soll Snowballing verhindern und den Handel zwischen Spielern fördern. Es folgt eine Tabelle der Limitierungen.
 
 | Kategorie | Items pro Tag | Inhalt |
 |---|---|---|
-| Quartz | 16 | Quartz Block |
-| Obsidian | 8 | Obsidian |
+| Quartz | 16 | QUARTZ_BLOCK |
+| Obsidian | 8 | OBSIDIAN |
 | Clay | 64 | CLAY_BALL, CLAY |
 | Coal | 128 | COAL, COAL_BLOCK |
 | Iron | 96 | IRON_ORE, RAW_IRON |
@@ -44,4 +44,3 @@ sidebar_position: 2
 | Gunpower | 16 | GUNPOWER |
 | Slime | 16 | SLIME_BALL, SLIME_BLOCK |
 | Ender Pearls | 8 | ENDER_PEARL |
-
