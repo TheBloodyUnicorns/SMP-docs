@@ -13,7 +13,7 @@ Falls du schon weißt, wie man ein Modpack von Curseforge installierst, kannst d
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vQQ0iNCOCbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Voice Chat
-Für das TBU-SMP verwenden wir ein ingame Voice-Chat. Mit folgenden Keybinds könnt ihr ihn benutzen:
+Für das TBU-SMP verwenden wir ein ingame Voice-Chat. Mit folgenden Keybinds könnt ihr ihn benutzen:  
 **G** - Mit G öffnet ihr den Gruppentab, wo ihr Gruppen mit Namen und Passwort (optional) erstellen könnt. Im selben Tab könnt ihr dann Gruppen beitreten. Gruppen funktionieren ähnlich wie Discord Sprachkanäle. Seid ihr in einer Gruppe, könnt ihr gegenseitig mit einander reden. Spieler, die in eurer Nähe sind, hören euch reden.  
 **M** - Mit M schaltet ihr euer Mikrofon stumm.  
 **N** - Deafen macht, dass du deine Mitspieler nicht mehr hörst und sie dich auch nicht.  
